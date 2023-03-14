@@ -1,5 +1,6 @@
 import sys
-import logging
+import lo gging
+from src.logger import logger
 
 # custom exception handling in python documentation
 
